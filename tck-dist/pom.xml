@@ -45,7 +45,7 @@
     </licenses>
 
     <properties>
-        <jakarta.concurrent.version.ga>3.0.1</jakarta.concurrent.version.ga>
+        <jakarta.concurrent.version.ga>3.0.1-SNAPSHOT</jakarta.concurrent.version.ga>
         <jakarta.concurrent.version.dev>${project.version}</jakarta.concurrent.version.dev>
 
         <maven.site.skip>true</maven.site.skip>
