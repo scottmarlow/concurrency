@@ -44,7 +44,7 @@
     </licenses>
 
     <properties>
-        <jakarta.concurrent.version.ga>3.0.0</jakarta.concurrent.version.ga>
+        <jakarta.concurrent.version.ga>3.0.1-SNAPSHOT</jakarta.concurrent.version.ga>
         <jakarta.concurrent.version.dev>${project.version}</jakarta.concurrent.version.dev>
         <sigtest.version>1.6</sigtest.version>
     </properties>
